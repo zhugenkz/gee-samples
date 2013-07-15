@@ -1,49 +1,7 @@
-gebuild Resources/Vector/Roads/TigerLine2009/ALABAMA
-gebuild Resources/Vector/Roads/TigerLine2009/ALASKA
-gebuild Resources/Vector/Roads/TigerLine2009/ARIZONA
-gebuild Resources/Vector/Roads/TigerLine2009/ARKANSAS
-gebuild Resources/Vector/Roads/TigerLine2009/CALIFORNIA
-gebuild Resources/Vector/Roads/TigerLine2009/COLORADO
-gebuild Resources/Vector/Roads/TigerLine2009/CONNECTICUT
-gebuild Resources/Vector/Roads/TigerLine2009/DELAWARE
-gebuild Resources/Vector/Roads/TigerLine2009/DISTRICT_OF_COLUMBIA
-gebuild Resources/Vector/Roads/TigerLine2009/FLORIDA
-gebuild Resources/Vector/Roads/TigerLine2009/GEORGIA
-gebuild Resources/Vector/Roads/TigerLine2009/HAWAII
-gebuild Resources/Vector/Roads/TigerLine2009/IDAHO
-gebuild Resources/Vector/Roads/TigerLine2009/ILLINOIS
-gebuild Resources/Vector/Roads/TigerLine2009/INDIANA
-gebuild Resources/Vector/Roads/TigerLine2009/IOWA
-gebuild Resources/Vector/Roads/TigerLine2009/KANSAS
-gebuild Resources/Vector/Roads/TigerLine2009/KENTUCKY
-gebuild Resources/Vector/Roads/TigerLine2009/LOUISIANA
-gebuild Resources/Vector/Roads/TigerLine2009/MAINE
-gebuild Resources/Vector/Roads/TigerLine2009/MARYLAND
-gebuild Resources/Vector/Roads/TigerLine2009/MASSACHUSETTS
-gebuild Resources/Vector/Roads/TigerLine2009/MICHIGAN
-gebuild Resources/Vector/Roads/TigerLine2009/MINNESOTA
-gebuild Resources/Vector/Roads/TigerLine2009/MISSISSIPPI
-gebuild Resources/Vector/Roads/TigerLine2009/MISSOURI
-gebuild Resources/Vector/Roads/TigerLine2009/MONTANA
-gebuild Resources/Vector/Roads/TigerLine2009/NEBRASKA
-gebuild Resources/Vector/Roads/TigerLine2009/NEVADA
-gebuild Resources/Vector/Roads/TigerLine2009/NEW_HAMPSHIRE
-gebuild Resources/Vector/Roads/TigerLine2009/NEW_JERSEY
-gebuild Resources/Vector/Roads/TigerLine2009/NEW_MEXICO
-gebuild Resources/Vector/Roads/TigerLine2009/NEW_YORK
-gebuild Resources/Vector/Roads/TigerLine2009/NORTH_CAROLINA
-gebuild Resources/Vector/Roads/TigerLine2009/NORTH_DAKOTA
-gebuild Resources/Vector/Roads/TigerLine2009/OHIO
-gebuild Resources/Vector/Roads/TigerLine2009/OKLAHOMA
-gebuild Resources/Vector/Roads/TigerLine2009/OREGON
-gebuild Resources/Vector/Roads/TigerLine2009/PENNSYLVANIA
-gebuild Resources/Vector/Roads/TigerLine2009/RHODE_ISLAND
-gebuild Resources/Vector/Roads/TigerLine2009/SOUTH_CAROLINA
-gebuild Resources/Vector/Roads/TigerLine2009/SOUTH_DAKOTA
-gebuild Resources/Vector/Roads/TigerLine2009/TENNESSEE
-gebuild Resources/Vector/Roads/TigerLine2009/TEXAS
-gebuild Resources/Vector/Roads/TigerLine2009/UTAH
-gebuild Resources/Vector/Roads/TigerLine2009/VERMONT
-gebuild Resources/Vector/Roads/TigerLine2009/VIRGINIA
-gebuild Resources/Vector/Roads/TigerLine2009/WASHINGTON
-gebuild Resources/Vector/Roads/TigerLine2009/WEST_VIRGINIA
+for USState in ALABAMA ALASKA ARIZONA ARKANSAS CALIFORNIA COLORADO CONNECTICUT DELAWARE DISTRICT_OF_COLUMBIA FLORIDA GEORGIA HAWAII IDAHO ILLINOIS INDIANA IOWA KANSAS KENTUCKY LOUISIANA MAINE MARYLAND MASSACHUSETTS MICHIGAN MINNESOTA MISSISSIPPI MISSOURI MONTANA NEBRASKA NEVADA NEW_HAMPSHIRE NEW_JERSEY NEW_MEXICO NEW_YORK NORTH_CAROLINA NORTH_DAKOTA OHIO OKLAHOMA OREGON PENNSYLVANIA RHODE_ISLAND SOUTH_CAROLINA SOUTH_DAKOTA TENNESSEE TEXAS UTAH VERMONT VIRGINIA WASHINGTON WEST_VIRGINIA 
+do
+
+	gebuild Resources/Vector/Roads/TigerLine2009/$USState
+done
+
+
