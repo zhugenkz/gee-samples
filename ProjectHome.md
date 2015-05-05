@@ -1,0 +1,1 @@
+Repository of sample code for Google Earth Enterprise applications.
